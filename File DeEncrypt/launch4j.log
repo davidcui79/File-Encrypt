@@ -1,0 +1,10 @@
+
+
+CmdLine:	D:\eclipse\workspace\File DeEncrypt\FileEncrypt.exe --l4j-debug
+WOW64:		no
+Bundled JRE:	C:\Program Files\Java\jre1.6.0_03
+Check launcher:	C:\Program Files\Java\jre1.6.0_03\bin\javaw.exe (OK)
+Launcher:	C:\Program Files\Java\jre1.6.0_03\bin\javaw.exe
+Launcher args:	-jar "D:\eclipse\workspace\File DeEncrypt\FileEncrypt.exe"
+Args length:	58/32768 chars
+Exit code:	0
